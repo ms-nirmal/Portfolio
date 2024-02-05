@@ -1,0 +1,57 @@
+:root{
+    --primary:#FB6F92;
+    --secondary:#FF8FAB;
+    --Light:#FFB3C6;
+    --XLight:#FFC2D1;
+    --white:#FFFFFF;
+    --black:#000000;
+}
+
+.header{
+    background-color: var(--primary);
+    display: flex;
+    align-items: center;
+    height: 10vh;
+    position: sticky;
+    top: 0;
+}
+
+.header .brand{
+    display: flex;
+    flex: 1;
+    justify-content: center;
+}
+
+.header .brand a{
+    text-decoration: none;
+    color: var(--white);
+}
+
+.header .brand a:hover{
+    text-decoration: underline;
+    text-decoration-color: var(--white);
+    text-decoration-thickness: 2px;
+    text-underline-offset: 8px;
+    color: var(--black);
+}
+
+.header .menu{
+    display: flex;
+    flex: 1;
+    justify-content: center;
+}
+
+.header nav a{
+    text-decoration: none;
+    color: var(--white);
+    padding-right: 13px;
+    font-weight: bold;
+}
+
+.header nav a:hover{
+    text-decoration: underline;
+    text-decoration-color: var(--white);
+    text-decoration-thickness: 2px;
+    text-underline-offset: 8px;
+    color: var(--black);
+}

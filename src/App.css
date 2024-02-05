@@ -1,0 +1,15 @@
+ @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;1,400&display=swap');
+
+*{
+    font-family: 'Audiowide', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+:root{
+    --primary:#FB6F92;
+    --secondary:#FF8FAB;
+    --Light:#FFB3C6;
+    --XLight:#FFC2D1;
+    --white:#FFFFFF;
+    --black:#000000;
+}

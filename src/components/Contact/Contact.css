@@ -1,0 +1,55 @@
+:root{
+    --primary:#FB6F92;
+    --secondary:#FF8FAB;
+    --Light:#FFB3C6;
+    --XLight:#FFC2D1;
+    --white:#FFFFFF;
+    --black:#000000;
+}
+
+.contact{
+    background-color: var(--XLight);
+    padding: 20px;
+}
+
+.contact .title{
+    text-align: center;
+    color: var(--black);
+    text-decoration: underline;
+    text-decoration-color: var(--primary);
+    text-decoration-thickness: 2px;
+    text-underline-offset: 5px;
+}
+
+.contact .wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.contact .contactDetails div{
+    text-align: center;
+    margin: 20px 0;
+}
+
+.contact .contactDetails h4{
+   color: var(--primary);
+}
+
+.contact .contactDetails .i{
+   font-size: 28px;
+   cursor: pointer;
+   color: var(--black);
+}
+
+.contact .contactDetails .i:hover{
+   color: var(--primary);
+}
+
+.contact .text{
+    font-weight: 700;
+}
+
+.contact .text span{
+    color: var(--primary) ;
+}

@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root{
+  --primary:#FB6F92;
+  --secondary:#FF8FAB;
+  --Light:#FFB3C6;
+  --XLight:#FFC2D1;
+  --white:#FFFFFF;
+  --black:#000000;
+}
