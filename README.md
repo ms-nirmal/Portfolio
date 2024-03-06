@@ -10,6 +10,9 @@ Hello, I'm Nithyanamdam MS nirmal, a passionate MERN Stack Web Developer. I spec
 - **Project Showcase:** 
 Project 1 - Travels Website. (https://ms-nirmal.github.io/travels_website/)
 
+priject 2 - Portfolio
+(https://ms-nirmal.github.io/portfolio/)
+
 - **Skills Section:** 
 Full-stack web development
 Frontend technologies: React, HTML, CSS, JavaScript
