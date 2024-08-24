@@ -1,14 +1,17 @@
 # My PORTFOLIO
 
 ## Introduction
-Hello, I'm Nithyanamdam MS nirmal, a passionate MERN Stack Web Developer. I specialize in creating dynamic and interactive web applications using the latest technologies. This portfolio serves as a snapshot of my skills, projects, and experiences in the web development field.
+I'm Nithyanamdam MS nirmal, a passionate MERN Stack Web Developer. I specialize in creating dynamic and interactive web applications using the latest technologies. This portfolio serves as a snapshot of my skills, projects, and experiences in the web development field.
 
 
 ## Features
 - **Responsive Design:** Ensuring optimal viewing on various devices.
 
-- **Project Showcase:** 
-Project 1 - Travels Website. (https://ms-nirmal.github.io/travels_website/)
+- **Project Showcase:**
+
+    Project 1 - Travels Website. (https://ms-nirmal.github.io/travels_website/)
+  
+    Project 2 - Portfolio (https://ms-nirmal.github.io/portfolio/)
 
 - **Skills Section:** 
 Full-stack web development
