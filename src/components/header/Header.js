@@ -11,9 +11,9 @@ function Header() {
     <div className='menu'>
       <nav>
           <Link to='/portfolio'>Home</Link>
-          <Link to='/Skills'>Skills</Link>
-          <Link to='/About'>About</Link>
-          <Link to='/Contact'>Contact</Link>
+          <Link to='/'>Skills</Link>
+          <Link to='/'>About</Link>
+          <Link to='/'>Contact</Link>
       </nav>
     </div>
 </header>

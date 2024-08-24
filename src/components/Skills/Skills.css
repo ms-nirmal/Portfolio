@@ -11,6 +11,7 @@
     background-color: var(--Light);  
     text-align: center;
     padding: 25px;
+    height: 100vh;
 }
 
 .skills .title{
