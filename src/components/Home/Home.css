@@ -81,6 +81,7 @@
     height: 300px;
     margin-left: 30px;
     animation: profile_animate 10s ease-in-out infinite 1s;
+    animation-delay: 0ms;
 }
 
 /* @keyframes profile_animate {
