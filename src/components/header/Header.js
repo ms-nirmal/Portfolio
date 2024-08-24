@@ -6,14 +6,14 @@ function Header() {
   return (
     <header className='header'>
     <div className="brand">
-        <Link to='/home'><h4>Nithyanandam Ms</h4></Link> 
+        <Link to='/portfolio'><h4>Nithyanandam Ms</h4></Link> 
     </div>
     <div className='menu'>
       <nav>
-          <Link to='/home'>Home</Link>
-          <Link to='/home'>Skills</Link>
-          <Link to='/home'>About</Link>
-          <Link to='/home'>Contact</Link>
+          <Link to='/portfolio'>Home</Link>
+          <Link to='/Skills'>Skills</Link>
+          <Link to='/About'>About</Link>
+          <Link to='/Contact'>Contact</Link>
       </nav>
     </div>
 </header>
