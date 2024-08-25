@@ -9,13 +9,14 @@
 
 .about{
     background-color: var(--XLight);
-    height: 100vh;
+    height: 130vh;
     padding: 25px 0px;
 }
 
 .about .title{
     text-align: center;
     color: var(--black);
+    padding: 100px 0 0 10px;
 }
 
 .about .title p{

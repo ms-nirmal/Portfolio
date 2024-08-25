@@ -9,10 +9,14 @@ function App() {
   return (
     <>
       <Header/>
-      <Home/>
-      <About/>
-      <Skills/>
-      <Contact/>
+      <section id='Home'><Home/></section>
+      
+      <section id='About'><About/></section>
+      
+      <section id='Skills'><Skills/></section>
+      
+      <section id='Contact'><Contact/></section>
+      
     </>
   );
 }

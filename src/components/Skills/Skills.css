@@ -10,14 +10,14 @@
 .skills{
     background-color: var(--Light);  
     text-align: center;
-    padding: 25px;
-    height: 100vh;
+    justify-content: center;
+    height: 120vh;
 }
 
 .skills .title{
     text-align: center;
     color: var(--black);
-    padding: 20px 0;
+    padding: 100px 0 0 10px;
 }
 
 .skills .title p{
